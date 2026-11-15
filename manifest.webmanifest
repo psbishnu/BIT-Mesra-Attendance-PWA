@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "BIT Mesra Student Attendance",
+  "short_name": "BIT Attendance",
+  "description": "Offline student attendance management for BIT Mesra, Lalpur Unit with local records and Excel import and export.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f0",
+  "theme_color": "#174d42",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
